@@ -9,7 +9,14 @@ const SUGGESTIONS = {
   greeting: ['Hello, nice to meet you', 'Good morning', 'How are you?', 'See you later'],
   help:     ['I need help', 'Please assist me', 'Can you call someone?', 'Thank you'],
   food:     ['I am hungry', 'I am thirsty', 'I would like water', 'Can I have food?'],
-  default:  ['Yes', 'No', 'Please repeat', 'I understand', 'I do not understand'],
+  default:  [
+    'How are you doing today?', 
+    'Could you help me with something?', 
+    'I need a moment, please.', 
+    'Thank you so much for your patience.', 
+    'Can we talk about this later?', 
+    'I agree with you completely.'
+  ],
 };
 
 // POST /api/smart-phrases/suggest
