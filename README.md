@@ -86,7 +86,7 @@ unifytalk-frontend/
 ### Frontend Setup
 ```bash
 # Clone the repo
-git clone https://github.com/bishnu24ise-prog/UnifyTalk
+git clone https://github.com/Ansika-Singh/UnifyTalk
 cd UnifyTalk
 
 # Install dependencies
@@ -100,7 +100,7 @@ npm start
 ### Backend Setup
 ```bash
 # Clone the backend repo
-git clone https://github.com/bishnu24ise-prog/unifytalk-backend
+git clone https://github.com/Ansika-Singh/unifytalk-backend
 cd unifytalk-backend
 
 # Install dependencies
@@ -131,8 +131,8 @@ CLOUDINARY_API_SECRET=your_cloudinary_secret
 | | Link |
 |-|------|
 | 🌐 Live Demo | https://unify-talk.vercel.app |
-| 💻 Frontend Repo | https://github.com/bishnu24ise-prog/UnifyTalk |
-| ⚙️ Backend Repo | https://github.com/bishnu24ise-prog/unifytalk-backend |
+| 💻 Frontend Repo | https://github.com/Ansika-Singh/UnifyTalk |
+| ⚙️ Backend Repo | https://github.com/Ansika-Singh/unifytalk-backend |
 | 🚀 Backend API | https://unifytalk-backend.onrender.com |
 
 ---
@@ -142,7 +142,7 @@ CLOUDINARY_API_SECRET=your_cloudinary_secret
 |------|------|---------|
 | Ansika Singh| Lead Developer, Visionary & Research Lead | Cambridge Institute of Technology |
 | Bishnu Kumar Sardar | Backend, Systems & Accessibility Developer | Cambridge Institute of Technology |
-| Pallavi | AI Research Lead and Project Management | Cambridge Institute of Technology |
+| Pallavi | AI Research Lead and Project Management | RNS Institute of Technology |
 
 ---
 
