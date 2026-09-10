@@ -142,6 +142,7 @@ CLOUDINARY_API_SECRET=your_cloudinary_secret
 |------|------|---------|
 | Ansika Singh| Lead Developer, Visionary & Research Lead | Cambridge Institute of Technology |
 | Bishnu Kumar Sardar | Backend, Systems & Accessibility Developer | Cambridge Institute of Technology |
+| Pallavi | AI Research Lead and Project Management | Cambridge Institute of Technology |
 
 ---
 
