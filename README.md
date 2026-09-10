@@ -140,7 +140,7 @@ CLOUDINARY_API_SECRET=your_cloudinary_secret
 ## 👥 Team
 | Name | Role | College |
 |------|------|---------|
-| Ansika Singh| Lead Developer, Visionary & Research Lead | Cambridge Institute of Technology |
+| Ansika Singh| Lead Developer, Backend Developer, Visionary & Research Lead | Cambridge Institute of Technology |
 | Bishnu Kumar Sardar | Backend, Systems & Accessibility Developer | Cambridge Institute of Technology |
 | Pallavi | AI Research Lead and Project Management | RNS Institute of Technology |
 
