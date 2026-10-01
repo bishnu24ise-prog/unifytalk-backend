@@ -1,0 +1,5 @@
+node_modules/
+.env
+uploads/
+google-vision-key.json
+*.log
